@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "REVIVER",
+  "base_artist": "MY FIRST STORY",
+  "createdAt": "2026-01-04T02:11:13.963605Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "REVIVER",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/01_REVIVER_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "REVIVER",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/02_REVIVER_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "REVIVER",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/03_REVIVER_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Reviver",
+      "artist": "36 Crazyfists",
+      "has_synced": true,
+      "path": "select/04_Reviver_36_Crazyfists.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Reviver",
+      "artist": "NOCTURNAL BLOODLUST",
+      "has_synced": false,
+      "path": "select/05_Reviver_NOCTURNAL_BLOODLUST.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Reviver",
+      "artist": "Generationals",
+      "has_synced": false,
+      "path": "select/06_Reviver_Generationals.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "MY FIRST STORY - REVIVER -【Official Video】",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/07_MY_FIRST_STORY_-_REVIVER_-【Official_Video】_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "MY FIRST STORY - REVIVER",
+      "artist": "My First Story",
+      "has_synced": true,
+      "path": "select/08_MY_FIRST_STORY_-_REVIVER_My_First_Story.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ghost Reviver",
+      "artist": "Deathstars",
+      "has_synced": false,
+      "path": "select/09_Ghost_Reviver_Deathstars.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Reviver",
+      "artist": "NOCTURNAL BLOODLUST",
+      "has_synced": false,
+      "path": "select/10_Reviver_NOCTURNAL_BLOODLUST.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Reviver (orchestral version)",
+      "artist": "Wildpath",
+      "has_synced": false,
+      "path": "select/11_Reviver_(orchestral_version)_Wildpath.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Reviver",
+      "artist": "Wildpath",
+      "has_synced": true,
+      "path": "select/12_Reviver_Wildpath.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "MY FIRST STORY - REVIVER -【Official Video】",
+      "artist": "JMS BASE",
+      "has_synced": true,
+      "path": "select/13_MY_FIRST_STORY_-_REVIVER_-【Official_Video】_JMS_BASE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Deixa o Som Reviver",
+      "artist": "3030",
+      "has_synced": true,
+      "path": "select/14_Deixa_o_Som_Reviver_3030.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "REVIVER",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/pl_01_REVIVER_MY_FIRST_STORY.txt"
+    }
+  ]
+}
