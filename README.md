@@ -1,0 +1,70 @@
+# MY FIRST STORY – REVIVER
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:21.75] Always you're there with me when my real story moves on
+[00:26.33] We will keep on fighting all the time, starting now
+[00:51.83] 
+[00:31.48] 何回だって失ったモノに⽴ち向かって
+[00:35.84] 全部 消し去って思い出した
+[00:42.34] 
+[00:40.99] There's nothing to change in me
+[00:43.32] There's nothing to change in you
+[00:45.74] What is the correct answer?
+[00:47.78] 必ず
+[00:48.78] 
+[00:49.95] 今 朽ち果てた運命の中で闘いながら⼿に⼊れた
+[00:59.63] 僕の命を捧げる⽇まで
+[01:04.33] This is my only way
+[01:08.28] このまま
+[01:10.28] 
+[01:09.55] I will stay alive praying for myself
+[01:19.35] I will stay alive praying for myself
+[01:37.35] 
+[01:38.67] Someday I will only stop when you're completely gone
+[01:43.22] Where do you then go and what are you looking for?
+[02:08.22] 
+[01:48.01] 遠くなった未来の僕を追い越したくて
+[01:52.81] 同じ⾊に染まり出した
+[01:57.81] 
+[01:57.64] There's nothing to change in you
+[02:00.26] There's nothing to change in me
+[02:02.32] What is the correct answer?
+[02:04.82] ⼀度は
+[02:06.32] 
+[02:06.83] 儚く咲いた永遠の誓いが枯れ果てたまま泣いてる
+[02:16.31] 蒼い⽋⽚を集める⽇まで
+[02:21.17] This is you and me now
+[02:25.13] これから
+[02:27.13] 
+[02:26.34] I will stay alive praying for myself
+[02:35.93] I will stay alive praying for myself
+[02:53.93] 
+[02:53.18] One day I just kept looking up to the sky
+[02:55.45] What do you take and what do you lose again
+[02:57.89] You know? You know? You know?
+[02:59.14] I know
+[02:59.79] 'Cause I will need to protect someone now for sure
+[03:01.87] Right, yeah?
+[03:02.68] This decision needs to be made on today
+[03:04.48] I've tried to imagine it over a hundred times
+[03:07.30] Nobody knows this story that I will put into an end
+[03:10.43] Start it over again
+[03:19.93] 
+[03:21.27] あの⽇の僕は何処か遠くの知らない場所で⽬覚めた
+[03:30.76] また思い出の中を探すの
+[03:35.66] 「たった⼀つの命で yeah」
+[03:43.16] 
+[03:41.41] 濡れた世界は僕⼀⼈だと思い続けていたから
+[03:51.14] 僕のすべてを受け入れるなら
+[03:56.02] 何千、何百、何⼗、何年だって
+[04:03.02] 
+[04:01.97] 必ず道の先にあるから諦めないと決めたよ
+[04:11.41] 最後の夢を叶える⽇まで
+[04:16.35] This is my only way
+[04:20.38] このまま
+[04:22.38] 
+[04:21.63] I will stay alive praying for myself
+[04:31.39] I will stay alive praying for myself
+```
